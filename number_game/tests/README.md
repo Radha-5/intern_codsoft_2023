@@ -1,1 +1,2 @@
-
+Number Game
+The number game is a thrilling and strategic challenge where players engage in a series of numerical tasks. Whether it's solving mathematical puzzles, deciphering sequences, or strategizing with numerical patterns, the game keeps participants on their toes. With each level presenting a new mathematical twist, players must harness their numerical prowess to advance. It's not just about calculations; it's about decoding the language of numbers and outsmarting the game's twists and turns. Are you up for the challenge?
